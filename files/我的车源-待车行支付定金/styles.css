@@ -16,7 +16,7 @@
   position:absolute;
   z-index:0;
 }
-.u967_img {
+.u719_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -24,7 +24,7 @@
   width:234px;
   height:94px;
 }
-.u967 {
+.u719 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -35,19 +35,19 @@
   opacity:0.1;
   color:#000000;
 }
-.u967 .text {
+.u719 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-.u967_text {
+.u719_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
 }
-.u968_img {
+.u720_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -55,7 +55,7 @@
   width:16px;
   height:16px;
 }
-.u968 {
+.u720 {
   border-width:0px;
   position:absolute;
   left:188px;
@@ -64,20 +64,20 @@
   height:16px;
   display:flex;
 }
-.u968 .text {
+.u720 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-.u968_text {
+.u720_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-.u969_div {
+.u721_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -94,7 +94,7 @@
   color:#000000;
   text-align:center;
 }
-.u969 {
+.u721 {
   border-width:0px;
   position:absolute;
   left:39px;
@@ -105,19 +105,19 @@
   color:#000000;
   text-align:center;
 }
-.u969 .text {
+.u721 .text {
   position:absolute;
   align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
 }
-.u969_text {
+.u721_text {
   border-width:0px;
   white-space:nowrap;
   text-transform:none;
 }
-#u966-1 {
+#u718-1 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -125,7 +125,7 @@
   width:234px;
   height:94px;
 }
-#u966 {
+#u718 {
   border-width:0px;
   position:absolute;
   left:402px;
@@ -137,7 +137,7 @@
   border:none;
   border-radius:0px;
 }
-#u970_img {
+#u722_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -145,7 +145,7 @@
   width:375px;
   height:859px;
 }
-#u970 {
+#u722 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -154,14 +154,14 @@
   height:859px;
   display:flex;
 }
-#u970 .text {
+#u722 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u970_text {
+#u722_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
