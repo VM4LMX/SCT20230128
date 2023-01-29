@@ -16,7 +16,7 @@
   position:absolute;
   z-index:0;
 }
-#u827_img {
+#u828_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -24,7 +24,7 @@
   width:375px;
   height:830px;
 }
-#u827 {
+#u828 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -33,46 +33,14 @@
   height:830px;
   display:flex;
 }
-#u827 .text {
+#u828 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u827_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-  visibility:hidden;
-}
-.u829_img {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:244px;
-  height:324px;
-}
-.u829 {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:244px;
-  height:324px;
-  display:flex;
-  opacity:0.1;
-  color:transparent;
-}
-.u829 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-.u829_text {
+#u828_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
@@ -83,17 +51,19 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:16px;
-  height:16px;
+  width:244px;
+  height:324px;
 }
 .u830 {
   border-width:0px;
   position:absolute;
-  left:94px;
+  left:0px;
   top:0px;
-  width:16px;
-  height:16px;
+  width:244px;
+  height:324px;
   display:flex;
+  opacity:0.1;
+  color:transparent;
 }
 .u830 .text {
   position:absolute;
@@ -108,7 +78,37 @@
   text-transform:none;
   visibility:hidden;
 }
-#u828-1 {
+.u831_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:16px;
+  height:16px;
+}
+.u831 {
+  border-width:0px;
+  position:absolute;
+  left:94px;
+  top:0px;
+  width:16px;
+  height:16px;
+  display:flex;
+}
+.u831 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+.u831_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u829-1 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -116,7 +116,7 @@
   width:244px;
   height:324px;
 }
-#u828 {
+#u829 {
   border-width:0px;
   position:absolute;
   left:60px;

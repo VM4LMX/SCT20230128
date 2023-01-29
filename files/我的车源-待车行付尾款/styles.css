@@ -16,7 +16,7 @@
   position:absolute;
   z-index:0;
 }
-#u970_img {
+#u971_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -24,7 +24,7 @@
   width:375px;
   height:859px;
 }
-#u970 {
+#u971 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -33,20 +33,20 @@
   height:859px;
   display:flex;
 }
-#u970 .text {
+#u971 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u970_text {
+#u971_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-.u972_img {
+.u973_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -54,7 +54,7 @@
   width:234px;
   height:53px;
 }
-.u972 {
+.u973 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -64,35 +64,6 @@
   display:flex;
   opacity:0.1;
   color:#000000;
-}
-.u972 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-.u972_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-}
-.u973_img {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:16px;
-  height:16px;
-}
-.u973 {
-  border-width:0px;
-  position:absolute;
-  left:188px;
-  top:7px;
-  width:16px;
-  height:16px;
-  display:flex;
 }
 .u973 .text {
   position:absolute;
@@ -105,9 +76,38 @@
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
+}
+.u974_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:16px;
+  height:16px;
+}
+.u974 {
+  border-width:0px;
+  position:absolute;
+  left:188px;
+  top:7px;
+  width:16px;
+  height:16px;
+  display:flex;
+}
+.u974 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+.u974_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
   visibility:hidden;
 }
-.u974_div {
+.u975_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -124,7 +124,7 @@
   color:#000000;
   text-align:center;
 }
-.u974 {
+.u975 {
   border-width:0px;
   position:absolute;
   left:33px;
@@ -135,19 +135,19 @@
   color:#000000;
   text-align:center;
 }
-.u974 .text {
+.u975 .text {
   position:absolute;
   align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
 }
-.u974_text {
+.u975_text {
   border-width:0px;
   white-space:nowrap;
   text-transform:none;
 }
-#u971-1 {
+#u972-1 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -155,7 +155,7 @@
   width:234px;
   height:64px;
 }
-#u971 {
+#u972 {
   border-width:0px;
   position:absolute;
   left:404px;
